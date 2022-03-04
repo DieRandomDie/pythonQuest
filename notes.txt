@@ -1,0 +1,43 @@
+Zone 0
+Grasslands: 1/48
+Bridge:     1/48
+Forest:     1/32
+Hills:      1/32
+Desert:     1/16 (There is only one square of desert in this region)
+
+Every other zone, including dungeons
+Grasslands: 1/24
+Swamp:      1/16
+Forest:     1/16
+Hills:      1/8
+Desert:     1/8
+
+Stairs:     1/24
+Chest:      1/24
+Barrier:    1/16
+Brick:      1/16
+
+Zone  0: Slime, Red Slime, Slime, Red Slime, Slime
+Zone  1: Red Slime, Slime, Red Slime, Drakee, Red Slime
+Zone  2: Slime, Ghost, Drakee, Ghost, Red Slime
+Zone  3: Red Slime, Red Slime, Drakee, Ghost, Magician
+Zone  4: Ghost, Magician, Magidrakee, Magidrakee, Scorpion
+Zone  5: Ghost, Magician, Magidrakee, Scorpion, Skeleton
+Zone  6: Magidrakee, Scorpion, Skeleton, Warlock, Wolf
+Zone  7: Skeleton, Warlock, Metal Scorpion, Wolf, Wolf
+Zone  8: Metal Scorpion, Wraith, Wolflord, Wolflord, Goldman
+Zone  9: Wraith, Wyvern, Wolflord, Wyvern, Goldman
+Zone 10: Wyvern, Rogue Scorpion, Wraith Knight, Knight, Demon Knight
+Zone 11: Wraith Knight, Knight, Magiwyvern, Demon Knight, Metal Slime
+Zone 12: Knight, Magiwyvern, Demon Knight, Werewolf, Starwyvern
+Zone 13: Werewolf, Green Dragon, Starwyvern, Starwyvern, Wizard
+Zone 14: Poltergeist, Droll, Drakeema, Skeleton, Warlock
+Zone 15: Specter, Wolflord, Druinlord, Drollmagi, Wraith Knight
+Zone 16: Werewolf, Green Dragon, Starwyvern, Wizard, Axe Knight
+Zone 17: Wizard, Axe Knight, Blue Dragon, Blue Dragon, Stoneman
+Zone 18: Wizard, Stoneman, Armored Knight, Armored Knight, Red Dragon
+Zone 19: Ghost, Magician, Scorpion, Druin, Druin
+
+All the data: https://gamefaqs.gamespot.com/nes/563408-dragon-warrior/faqs/61640
+All the maps/sprites: https://www.spriters-resource.com/nes/dw/
+Good overworld map: https://www.woodus.com/den/gallery/graphics/dw1nes/maps_overworld/dw1nes_world_monster_map.pdf
